@@ -9,4 +9,6 @@ public class StringUtil {
         System.out.println("Hi Cigdem, this method is for you, enjoy :)");
     }
 
+    // new updates
+
 }
